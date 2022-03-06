@@ -1,5 +1,12 @@
 ASsAS
 asduasdad
 
+<<<<<<< HEAD
 
 Voltei para a main e fiz essa alterção para ver como é.
+=======
+Não tenho extenxão para MD, então, fiz a alterção aqui no versoes.txt
+
+
+Na segunda branch vamos tentar fazer uma mesclagem posterior.
+>>>>>>> cf4a98f7bdab35b02658232d22c9ea390fe8cbd7
